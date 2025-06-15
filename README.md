@@ -12,14 +12,14 @@
 ## 📄 Summary of exercises (EN)🇺🇸
 
 #### 1. Module 3, exercises:
-- ![1.1]("https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_3/ex_1_1_print_int.py") "Make a program that reads an entire number and prints it."  <br>
-- [1.2]() "Make a program that asks the user to type three integer values and print the sum of them."  <br>
-- [1.3]() "Make a program that receives three values and presents the sum of the squares of the values read."
+- [1.1](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_3/ex_1_1_print_int.py) "Make a program that reads an entire number and prints it."  <br>
+- [1.2](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_3/ex_1_2_sum_three_int.py) "Make a program that asks the user to type three integer values and print the sum of them."  <br>
+- [1.3](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_3/ex_1_3_sum_int_squares.py) "Make a program that receives three values and presents the sum of the squares of the values read."
 
 #### 2. Module 4, exercises:
-- [2.1]() "Make a program that receives two integer values and prints which is the higher value."  <br>
-- [2.2]() "Make a program that reads an integer provided by the user. If this number is positive, calculate the square root and print it out. If it is negative, print a message of invalid value for the operation"  <br>
-- [2.3]() "Make a program that receives an integer and informs whether it is even or odd."
+- [2.1](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_4/ex_2_1_high_value.py) "Make a program that receives two integer values and prints which is the higher value."  <br>
+- [2.2](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_4/ex_2_2_root_or_error.py) "Make a program that reads an integer provided by the user. If this number is positive, calculate the square root and print it out. If it is negative, print a message of invalid value for the operation"  <br>
+- [2.3](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_4/ex_2_3_even_or_odd.py) "Make a program that receives an integer and informs whether it is even or odd."
    
 #### 3. Module 5, exercises: 
 - [3.1]() "Make a program that determines and shows the first five multiples of 3, considering numbers greater than 0."  <br>
@@ -29,14 +29,14 @@
 ## 📄 Sumário de exercícios (PT-BR)🇧🇷
 
 #### 1. Módulo 3, exercícios:
-- [1.1]() "Faça um programa que leia um número inteiro e imprima-o."  <br>
-- [1.2]() "Faça um programa que peça para o usuário digitar três valores inteiros e imprima a soma deles."  <br>
-- [1.3]() "Faça um programa que recebe três valores e apresente a soma dos quadrados dos valores lidos."
+- [1.1](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_3/ex_1_1_print_int.py) "Faça um programa que leia um número inteiro e imprima-o."  <br>
+- [1.2](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_3/ex_1_2_sum_three_int.py) "Faça um programa que peça para o usuário digitar três valores inteiros e imprima a soma deles."  <br>
+- [1.3](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_3/ex_1_3_sum_int_squares.py) "Faça um programa que recebe três valores e apresente a soma dos quadrados dos valores lidos."
    
 #### 2. Módulo 4, exercícios:
-- [2.1]() "Faça um programa que receba dois valores inteiros e imprima qual o maior valor."  <br>
-- [2.2]() "Faça um programa que leia um número inteiro fornecido pelo usuário. Se esse número for positivo, calcule a raiz quadrada e a imprima. Se for negativo imprima uma mensagem de valor inválido para a operação"  <br>
-- [2.3]() "Faça um programa que receba um número inteiro e informe se ele é par ou ímpar."
+- [2.1](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_4/ex_2_1_high_value.py) "Faça um programa que receba dois valores inteiros e imprima qual o maior valor."  <br>
+- [2.2](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_4/ex_2_2_root_or_error.py) "Faça um programa que leia um número inteiro fornecido pelo usuário. Se esse número for positivo, calcule a raiz quadrada e a imprima. Se for negativo imprima uma mensagem de valor inválido para a operação"  <br>
+- [2.3](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_4/ex_2_3_even_or_odd.py) "Faça um programa que receba um número inteiro e informe se ele é par ou ímpar."
 
 #### 3. Módulo 5, exercícios:
 - [3.1]() "Faça um programa que determine e mostre os cinco primeiros multiplos de 3, considerando números maiores que 0." <br>
