@@ -52,9 +52,9 @@
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)  <br>
 
 ## 🤝 Contributing | Contribuindo
-🇺🇸 Contributions are welcome! Feel free to fork and submit pull requests.  
+🇺🇸 Contributions are welcome! Feel free to fork and submit pull requests.  <br>
 🇧🇷 Contribuições são bem-vindas! Sinta-se livre para fazer fork e enviar PRs.
 
 ## 📜 License | Licença
-🇺🇸 MIT – see the [LICENSE](LICENSE) file for details.
+🇺🇸 MIT – see the [LICENSE](LICENSE) file for details.  <br>
 🇧🇷 MIT – veja o arquivo [LICENSE](LICENSE) para detalhes.
