@@ -44,12 +44,10 @@
 - [3.3](#) "Faça um programa que declare um inteiro, inicialize-o com 0, incremente-o de 1000 em 1000, imprimindo seu valor na tela até que alcance cem mil."
 
 ## 🧰 Tools | Ferramentas
-- Python 3.11 or high. | Python 3.11 or maior.
-
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
-- PyCharm or any editor of choice. | PyCharm ou qualquer editor a sua escolha.
-
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)  <br>
+- Python 3.11 or high. | Python 3.11 or maior.  <br>
+&nbsp;[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+- PyCharm or any editor of choice. | PyCharm ou qualquer editor a sua escolha.  <br>
+&nbsp;[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)  <br>
 
 ## 🤝 Contributing | Contribuindo
 🇺🇸 Contributions are welcome! Feel free to fork and submit pull requests.  <br>
