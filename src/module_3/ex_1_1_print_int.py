@@ -7,7 +7,7 @@ def print_int():
     Este script solicita ao usuário um número inteiro e o imprime na tela.
 
     Author | Autor: João Henrique
-    Data: 15/06/2025 (DD/MM/YYYY)
+    Date: 15/06/2025 (DD/MM/YYYY)
     Versão | Version: 1.0
     """
 
