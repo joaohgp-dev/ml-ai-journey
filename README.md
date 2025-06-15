@@ -39,9 +39,9 @@
 - [2.3](https://github.com/joaohgp-dev/my-python-path/blob/main/src/module_4/ex_2_3_even_or_odd.py) "Faça um programa que receba um número inteiro e informe se ele é par ou ímpar."
 
 #### 3. Módulo 5, exercícios:
-- [3.1]() "Faça um programa que determine e mostre os cinco primeiros multiplos de 3, considerando números maiores que 0." <br>
-- [3.2]() "Faça um programa que utilize o conteúdo o comando while para mostrar na tela uma contagem regressiva, iniciando em 10 e terminando em 0. Mostre também uma mensagem 'FIM!' após a contagem." <br>
-- [3.3]() "Faça um programa que declare um inteiro, inicialize-o com 0, incremente-o de 1000 em 1000, imprimindo seu valor na tela até que alcance cem mil."
+- [3.1](#) "Faça um programa que determine e mostre os cinco primeiros multiplos de 3, considerando números maiores que 0." <br>
+- [3.2](#) "Faça um programa que utilize o conteúdo o comando while para mostrar na tela uma contagem regressiva, iniciando em 10 e terminando em 0. Mostre também uma mensagem 'FIM!' após a contagem." <br>
+- [3.3](#) "Faça um programa que declare um inteiro, inicialize-o com 0, incremente-o de 1000 em 1000, imprimindo seu valor na tela até que alcance cem mil."
 
 ## 🧰 Tools | Ferramentas
 - Python 3.11 or high. | Python 3.11 or maior.
@@ -51,6 +51,10 @@
 
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)  <br>
 
-## 📜 License | Licensa
+## 🤝 Contributing | Contribuindo
+🇺🇸 Contributions are welcome! Feel free to fork and submit pull requests.  
+🇧🇷 Contribuições são bem-vindas! Sinta-se livre para fazer fork e enviar PRs.
+
+## 📜 License | Licença
 🇺🇸 MIT – see the [LICENSE](LICENSE) file for details.
 🇧🇷 MIT – veja o arquivo [LICENSE](LICENSE) para detalhes.
