@@ -11,8 +11,8 @@ def print_int():
     Versão | Version: 1.0
     """
 
-    n = int(input("Please enter an integer number: "))  # Guarda o valor inteiro informado na variável 'n'.
-    print(f"You entered: {n}")  # Imprime o valor da variável 'n' no console.
+    n = int(input("Please enter an integer number: ")) # Solicita um número inteiro e guarda o valor na variável 'n'.
+    print(f"You entered: {n}") # Imprime o valor da variável 'n' no console.
 
 if __name__ == "__main__":
     print_int()
