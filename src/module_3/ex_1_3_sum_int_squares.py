@@ -11,8 +11,8 @@ def sum_squares_of():
     Versão | Version: 1.0
     """
 
-    num_list = [int(input(f"Please enter integer #{i + 1}: "))for i in range(3)] # Solicita um número inteiro e guarda o valor do quadrado na variável 'num_list'.
-    print(f"The sum of {' + '.join(f'{n}²' for n in num_list)} is {sum(n ** 2 for n in num_list)}") # Imprime na tela a soma dos quadrados dos inteiros e o resultado
+    num_list = [int(input(f"Please enter integer #{i + 1}: "))for i in range(3)] # Solicita três números inteiros e guarda na variável 'num_list'.
+    print(f"The sum of {' + '.join(f'{n}²' for n in num_list)} is {sum(n ** 2 for n in num_list)}") # Imprime na tela a expressão da soma dos inteiros ao quadrado e o resultado.
 
 if __name__ == "__main__":
     sum_squares_of()

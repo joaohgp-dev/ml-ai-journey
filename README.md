@@ -28,9 +28,9 @@ Status: In progress 👨‍💻<br>
 #### 3. Module 5, exercises:
 Status: Pending 🚧<br>
 
-- [3.1]() "Make a program that determines and shows the first five multiples of 3, considering numbers greater than 0."  <br>
-- [3.2]() "Make a program that uses the content of the while command to show a countdown on the screen, starting at 10 and ending at 0. Also show a message 'END!' after the countdown."  <br>
-- [3.3]() "Make a program that declares an integer, initialize it with 0, increment it from 1000 to 1000, printing its value on the screen until it reaches one hundred thousand."
+- [3.1](#) "Make a program that determines and shows the first five multiples of 3, considering numbers greater than 0."  <br>
+- [3.2](#) "Make a program that uses the content of the while command to show a countdown on the screen, starting at 10 and ending at 0. Also show a message 'END!' after the countdown."  <br>
+- [3.3](#) "Make a program that declares an integer, initialize it with 0, increment it from 1000 to 1000, printing its value on the screen until it reaches one hundred thousand."
 
 ## PT-BR|🇧🇷 Sumário de exercícios 
 

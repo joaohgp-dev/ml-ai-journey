@@ -11,8 +11,8 @@ def sum_three_int():
     Versão | Version: 1.0
     """
 
-    sum_adders = [int(input(f"Please enter integer #{i + 1}: ")) for i in range(3)] # Solicita três número inteiro e guarda o valor na variável 'sum_adders'.
-    print(f"The sum of {sum_adders[0]} + {sum_adders[1]} + {sum_adders[2]} is {sum(sum_adders)}") # Imprime na tela os inteiros informados e a soma.
+    sum_adders = [int(input(f"Please enter integer #{i + 1}: ")) for i in range(3)] # Solicita três números inteiros e guarda os valores na variável 'sum_adders'.
+    print(f"The sum of {sum_adders[0]} + {sum_adders[1]} + {sum_adders[2]} is {sum(sum_adders)}") # Imprime na tela a expressão da soma dos inteiros informados e o resultado.
 
 if __name__ == "__main__":
     sum_three_int()
