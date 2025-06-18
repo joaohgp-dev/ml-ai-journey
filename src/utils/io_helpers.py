@@ -1,14 +1,18 @@
 import os
 
+"""
+Function | Função: clear() 
+Author   | Autor: João Henrique
+Date     | Data: 18/06/2025 (DD/MM/YYYY)
+Version  | Versão: 1.1
+"""
+
 
 def clear():
     """
-    Clear the terminal screen (cross-platform).
-    Limpa a tela do terminal (multi-plataforma).
+    EN | Clear the terminal screen (cross-platform).
 
-    Author | Autor: João Henrique
-    Date: 16/06/2025 (DD/MM/YYYY)
-    Versão | Version: 1.0
+    PT | Limpa a tela do terminal (multi-plataforma).
     """
 
     if os.getenv("TERM") is not None:
@@ -20,21 +24,25 @@ def clear():
         print("\n" * 20)
 
 
+"""
+Function | Função: get_valid_int(prompt: str) -> int
+Author   | Autor: João Henrique
+Date     | Data: 18/06/2025 (DD/MM/YYYY)
+Version  | Versão: 1.1
+"""
+
+
 def get_valid_int(prompt: str) -> int:
     """
-    Prompt the user until a valid integer is entered.
-    Solicita um número inteiro ao usuário até que um valor válido seja
+    EN | Prompt the user until a valid integer is entered.
+
+    PT | Solicita um número inteiro ao usuário até que um valor válido seja
     informado.
 
-    Author | Autor: João Henrique
-    Date: 16/06/2025 (DD/MM/YYYY)
-    Versão | Version: 1.0
+    :param prompt: Custom prompt message shown before each attempt. Mensagem
+    customizada exibida antes de cada tentativa.
 
-    Args:
-        prompt (str): A mensagem exibida para o usuário.
-
-    Returns:
-        int: O valor inteiro fornecido.
+    :return: The integer value supplied. O valor inteiro fornecido.
     """
 
     while True:
