@@ -1,6 +1,5 @@
 # .pre-commit-config.yaml
 # Hooks automáticos ao fazer git commit
-# Você vai entender melhor no módulo sobre ferramentas.
 
 repos:
   - repo: https://github.com/psf/black
