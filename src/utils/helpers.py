@@ -1,7 +1,7 @@
 import os
 
 """
-Function | Função: clear() 
+Function | Função: clear()
 Author   | Autor: João Henrique
 Date     | Data: 18/06/2025 (DD/MM/YYYY)
 Version  | Versão: 1.1
