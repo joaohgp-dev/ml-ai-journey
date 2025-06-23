@@ -15,10 +15,10 @@
 
 ## 📌 Sumário Rápido
 
-- [🏗️ Estrutura do Repositório](#-estrutura-do-repositório)
+- [🏗️ Estrutura do repositório](#-estrutura-do-repositório)
 - [🛠️ Instalação](#-instalação)
-- [🧪 Comandos Úteis](#-comandos-úteis)
-- [📖 Progresso e Estudos](#-progresso-e-estudos)
+- [🧪 Comandos úteis](#-comandos-úteis)
+- [📖 Progresso e estudos](#-progresso-e-estudos)
 - [🤝 Contribuindo](#-contribuindo)
 
 ---
