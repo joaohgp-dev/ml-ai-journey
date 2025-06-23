@@ -1,12 +1,14 @@
 # 📚 Python Tutorial 3.10 – Anotações
 
-Notas e experimentos baseados no tutorial oficial do Python 3.10: https://docs.python.org/3.10/tutorial/
+Notas e experimentos baseados no tutorial oficial do Python 3.10: [Clique aqui para acessar](https://docs.python.org/3.10/tutorial/)
 
 ---
 
 ## Progresso
 
-- [x] 3.1 Executando programas Python
-- [x] 3.2 Tipos básicos
-- [ ] 4. Controle de fluxo
-- [ ] 5. Funções
+- [ ] 1. Abrindo seu apetite
+- [ ] 2. Utilizando o interpretador Python 
+- [ ] 3. Uma introdução informal ao Python
+- [ ] ...
+
+> As anotações estão em arquivos `.md` separados por capítulo.
