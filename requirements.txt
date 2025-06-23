@@ -1,15 +1,15 @@
 # Core Python ML stack
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+# numpy (for future implementations)
+# pandas (for future implementations)
+# matplotlib (for future implementations)
+# seaborn (for future implementations)
+# scikit-learn (for future implementations)
 
 # Dev e testes
 pytest
 flake8
 pyyaml
-jupyter
+# jupyter (for future implementations)
 
 # (opcional) Autoformatadores e hooks
 black
