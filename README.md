@@ -1,3 +1,5 @@
+![Python application](https://github.com/joaohgp-dev/ml-ia-journey/actions/workflows/python-tests.yml/badge.svg)
+
 # 🐍 My ML/IA Journey
 
 > Um repositório pessoal de aprendizado e prática em Python, Machine Learning e IA.  
