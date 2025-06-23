@@ -1,15 +1,23 @@
-# My ML/IA Journey
+# 🐍 My ML/IA Journey
 
 > Um repositório pessoal de aprendizado e prática em Python, Machine Learning e IA.  
 > Documenta minha jornada completa — dos fundamentos ao desenvolvimento de projetos reais.
 
-## Objetivo
+## 🎯 Objetivos
 
-Criar uma base sólida em programação Python e em IA/ML, entendendo cada conceito de forma prática e progressiva. Compartilhar esse caminho para inspirar outras pessoas.
+🎓 **Criar uma base sólida em programação Python e em IA/ML, entendendo cada conceito de forma prática e progressiva.**  
+💼 **Adquirir as competẽncias nescessárias para aplicar em estágios na área de IA/ML.**  
+🌟 **Compartilhar esse caminho para inspirar outras pessoas.**
 
+## 📌 Summary
+
+[Estrutura do Repositódio](## 🏗️ Estrutura do Repositório)
+[]()
+[]()
+[]()
 ---
 
-## Estrutura do Repositório
+## 🏗️ Estrutura do Repositório
 ```
 ml-ai-journey/ #  
 |  
@@ -66,4 +74,16 @@ ml-ai-journey/ #
 ├── pyproject.toml #
 ├── requirements.txt #
 └── setup.py #
+```
+
+---
+
+---
+
+## 🛠️ Instalação
+
+```bash
+git clone https://github.com/seu-usuario/ml-ia-journey.git
+cd ml-ia-journey
+make install
 ```
