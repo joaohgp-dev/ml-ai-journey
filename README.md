@@ -118,6 +118,4 @@ Este projeto é pessoal, mas sugestões são bem-vindas!
   
 Consulte [CONTRIBUTING.md]() para mais detalhes.
 
----
-
 > Feito com foco em aprendizado real, experimentação e evolução contínua.
