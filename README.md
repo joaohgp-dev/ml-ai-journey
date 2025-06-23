@@ -3,25 +3,19 @@
 > Um repositório pessoal de aprendizado e prática em Python, Machine Learning e IA.  
 > Documenta minha jornada completa — dos fundamentos ao desenvolvimento de projetos reais.
 
----
-
 ## 🎯 Objetivos
 
 - 🎓 Criar uma base sólida em programação Python e em IA/ML, entendendo cada conceito de forma prática e progressiva.  
 - 💼 Adquirir as competências necessárias para aplicar em estágios na área de IA/ML.  
 - 🌟 Compartilhar esse caminho para inspirar outras pessoas.
 
----
-
 ## 📌 Sumário Rápido
 
 - [🏗️ Estrutura do repositório](#%EF%B8%8F-estrutura-do-reposit%C3%B3rio)
 - [🛠️ Instalação](#%EF%B8%8F-instala%C3%A7%C3%A3o)
-- [🧪 Comandos úteis](#-comandos-úteis)
+- [🧪 Comandos úteis](#-comandos-%C3%BAteis)
 - [📖 Progresso e estudos](#-progresso-e-estudos)
 - [🤝 Contribuindo](#-contribuindo)
-
----
 
 ## 🏗️ Estrutura do Repositório
 
@@ -81,8 +75,6 @@ ml-ai-journey/
 ├── requirements.txt
 └── setup.py
 ```
-
----
 
 ## 🛠️ Instalação
 
