@@ -12,7 +12,7 @@
 ## 📌 Summary
 
 ![🏗️ Estrutura do Repositório](https://github.com/joaohgp-dev/ml-ai-journey/tree/main?tab=readme-ov-file#%EF%B8%8F-estrutura-do-reposit%C3%B3rio)
-![🛠️ Instalação](https://github.com/joaohgp-dev/ml-ai-journey/tree/main?tab=readme-ov-file#%EF%B8%8F-instalação)
+![🛠️ Instalação](https://github.com/joaohgp-dev/ml-ai-journey#%EF%B8%8F-instala%C3%A7%C3%A3o)
 ![]()
 ![]()
 ---
