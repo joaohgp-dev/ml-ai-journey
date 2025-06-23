@@ -1,4 +1,4 @@
-[![Python application](https://github.com/joaohgp-dev/ml-ia-journey/actions/workflows/python-tests.yml/badge.svg)](https://github.com/joaohgp-dev/ml-ia-journey/actions/workflows/python-tests.yml)
+[![Run Tests](https://github.com/joaohgp-dev/ml-ai-journey/actions/workflows/python-tests.yml/badge.svg)](https://github.com/joaohgp-dev/ml-ai-journey/actions/workflows/python-tests.yml)
 
 # 🐍 My ML/IA Journey
 
