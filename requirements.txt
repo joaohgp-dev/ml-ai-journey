@@ -1,0 +1,16 @@
+# Core Python ML stack
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Dev e testes
+pytest
+flake8
+pyyaml
+jupyter
+
+# (opcional) Autoformatadores e hooks
+black
+pre-commit
