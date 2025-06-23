@@ -1,9 +1,14 @@
-## 📖 Python Fluente | Annotations - Anotações
+# 📖 Python Fluente – Anotações
 
-This folder contains s3ummaries, insights and code excerpts based on the book ** Python Fluent, Second Edition ** by Luciano
-Ramalho.
-Abstracts are made section by section, focusing on practical understanding and real application of concepts.
+Este diretório contém minhas anotações e resumos sobre o livro **Python Fluente** de Luciano Ramalho.
 
-Esta pasta contém resumos, insights e trechos de código baseados no livro **Python Fluente, Segunda Edição** de Luciano
-Ramalho.
-Os resumos são feitos seção por seção, com foco na compreensão prática e aplicação real dos conceitos.
+---
+
+## 📘 Capítulos estudados
+
+- [ ] Capítulo 1 – Introdução
+- [ ] Capítulo 2 – Tipos embutidos
+- [ ] Capítulo 3 – Dicionários e Sets
+- [ ] ...
+
+> As anotações estão em arquivos `.md` separados por capítulo.
