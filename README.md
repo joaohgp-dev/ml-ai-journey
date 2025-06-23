@@ -11,10 +11,10 @@
 
 ## 📌 Summary
 
-![Estrutura do Repositódio](https://github.com/joaohgp-dev/ml-ai-journey/tree/main?tab=readme-ov-file#%EF%B8%8F-estrutura-do-reposit%C3%B3rio)
-[]()
-[]()
-[]()
+![🏗️ Estrutura do Repositório](https://github.com/joaohgp-dev/ml-ai-journey/tree/main?tab=readme-ov-file#%EF%B8%8F-estrutura-do-reposit%C3%B3rio)
+![]()
+![]()
+![]()
 ---
 
 ## 🏗️ Estrutura do Repositório
