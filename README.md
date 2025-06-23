@@ -79,7 +79,7 @@ ml-ai-journey/
 ## 🛠️ Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/ml-ia-journey.git
+git clone https://github.com/joaohgp-dev/ml-ia-journey.git
 cd ml-ia-journey
 make install
 ```
