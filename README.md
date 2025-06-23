@@ -16,7 +16,7 @@
 ## 📌 Sumário Rápido
 
 - [🏗️ Estrutura do repositório](#%EF%B8%8F-estrutura-do-reposit%C3%B3rio)
-- [🛠️ Instalação](#-instalação)
+- [🛠️ Instalação](#%EF%B8%8F-instala%C3%A7%C3%A3o)
 - [🧪 Comandos úteis](#-comandos-úteis)
 - [📖 Progresso e estudos](#-progresso-e-estudos)
 - [🤝 Contribuindo](#-contribuindo)
@@ -107,7 +107,7 @@ Veja o diário completo em [docs/progress_log.md]().
 As anotações de estudos estão em:
 - [docs/annotations/python_tutorial/]()
 - [docs/annotations/python_fluente/]()
-- [🏗️ Estrutura do repositório](#%EF%B8%8F-estrutura-do-reposit%C3%B3rio)
+
 ## 🤝 Contribuindo
 
 Este projeto é pessoal, mas sugestões são bem-vindas!
