@@ -7,9 +7,9 @@
 
 ## 🎯 Objetivos
 
-🎓 **Criar uma base sólida em programação Python e em IA/ML, entendendo cada conceito de forma prática e progressiva.**  
-💼 **Adquirir as competências necessárias para aplicar em estágios na área de IA/ML.**  
-🌟 **Compartilhar esse caminho para inspirar outras pessoas.**
+- 🎓 Criar uma base sólida em programação Python e em IA/ML, entendendo cada conceito de forma prática e progressiva.  
+- 💼 Adquirir as competências necessárias para aplicar em estágios na área de IA/ML.  
+- 🌟 Compartilhar esse caminho para inspirar outras pessoas.
 
 ---
 
