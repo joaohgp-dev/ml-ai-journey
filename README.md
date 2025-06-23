@@ -11,7 +11,7 @@
 
 ## 📌 Summary
 
-[Estrutura do Repositódio](## 🏗️ Estrutura do Repositório)
+![Estrutura do Repositódio](github.com/joaohgp-dev/ml-ai-journey/)
 []()
 []()
 []()
