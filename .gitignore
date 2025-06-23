@@ -196,3 +196,10 @@ cython_debug/
 
 # Flake8 configuration file
 .flake8
+
+# Dados
+data/raw/
+data/external/
+
+# Jupyter
+.ipynb_checkpoints/
