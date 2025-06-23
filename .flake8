@@ -1,7 +1,6 @@
 [flake8]
-max-line-length = 79
+max-line-length = 88
 exclude = .git,__pycache__,.venv
-
 # E203: whitespace before ':' (ignorado para compatibilidade com Black)
 # W503: line break before binary operator (preferência PEP8 + Black)
 ignore = E203, W503
