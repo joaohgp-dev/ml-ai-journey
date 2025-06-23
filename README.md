@@ -95,10 +95,10 @@ make notebook    # Abre o Jupyter Notebook
 
 ## 📖 Progresso e Estudos
 
-Veja o diário completo em [docs/progress_log.md]().
+Veja o diário completo em [docs/progress_log.md](https://github.com/joaohgp-dev/ml-ai-journey/blob/main/docs/progress_log.md).
 As anotações de estudos estão em:
-- [docs/annotations/python_tutorial/]()
-- [docs/annotations/python_fluente/]()
+- [docs/annotations/python_tutorial/](https://github.com/joaohgp-dev/ml-ai-journey/tree/main/docs/annotations/python_tutorial)
+- [docs/annotations/python_fluente/](https://github.com/joaohgp-dev/ml-ai-journey/tree/main/docs/annotations/python_fluente)
 
 ## 🤝 Contribuindo
 
@@ -108,6 +108,6 @@ Este projeto é pessoal, mas sugestões são bem-vindas!
 - Commit e push.
 - Envie um Pull Request.
   
-Consulte [CONTRIBUTING.md]() para mais detalhes.
+Consulte [CONTRIBUTING.md](https://github.com/joaohgp-dev/ml-ai-journey/blob/main/CONTRIBUTING.md) para mais detalhes.
 
 > Feito com foco em aprendizado real, experimentação e evolução contínua.
