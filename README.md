@@ -79,8 +79,6 @@ ml-ai-journey/ #
 
 ---
 
----
-
 ## 🛠️ Instalação
 
 ```bash
